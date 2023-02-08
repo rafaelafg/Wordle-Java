@@ -1,18 +1,2 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+pt: Jogo de adivinhação de palavras feito em Java. Nesta versão estão sendo usadas funções prontas de uma biblioteca, a outra versão (WordleSimples) não inclui essa bibilioteca.
+eng: Word guessing game built in Java. There are methods from a library being used in this version, the other version (WordleSimples) doesn't include the library.
